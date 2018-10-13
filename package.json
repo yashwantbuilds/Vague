@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yashwantbuilds/Vague/issues"
   },
-  "homepage": "https://github.com/yashwantbuilds/Vague#readme"
+  "homepage": "https://github.com/yashwantbuilds/Vague#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
